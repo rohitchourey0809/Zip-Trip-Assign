@@ -1,0 +1,30 @@
+<!-- Question 4.
+Consider the following HTML -->
+<div id="container">
+  <div class="box"></div>
+  <!-- Line 2 -->
+  <div class="box-2"></div>
+  <!-- Line 3 -->
+  <div>
+    <!-- Line 4 -->
+    <div class="box"></div>
+    <!-- Line 5 -->
+  </div>
+</div>
+<div class="box"></div>
+<!-- Line 7 -->
+<!-- 
+ For each of the following selectors, write the line numbers of the elements that will be selected
+.box
+div .box
+div.box
+[class] -->
+.box: Lines 2, 5, 7 
+ div .box: Lines 5, 7
+ div.box: Lines 2, 5, 7 
+ [class]: Lines 2, 3, 5, 7 
+ #container .box: Lines 2, 5 
+ #container > .box: Line 2
+
+<!--  -->
+

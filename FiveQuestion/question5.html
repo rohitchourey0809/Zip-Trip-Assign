@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive Boxes</title>
+    <style>
+      #container {
+        display: flex;
+        width: 100%;
+      }
+
+      .box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+          height: 100px;
+      }
+
+      .left.fixed.box {
+        width: 100px;
+      
+        background-color: lightblue;
+      }
+
+      .middle.expanding.box {
+        flex-grow: 1;
+        background-color: lightgreen;
+        height: 100px;
+      }
+
+      .right.fixed.box {
+        width: 100px;
+        background-color: lightcoral;
+        height: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <div class="left fixed box">Left</div>
+      <div class="middle expanding box">Middle</div>
+      <div class="right fixed box">Right</div>
+    </div>
+  </body>
+</html>
