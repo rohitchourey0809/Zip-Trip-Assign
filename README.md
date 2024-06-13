@@ -9,8 +9,16 @@ Deployed link
 
 https://zip-trip-frontend.vercel.app/
 
-
+Home Page
 ![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/fac57a31-a61d-435d-b60c-1a87a2eb2b6e)
+
+Details Page
+![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/b2ea8df6-72d6-4f12-99df-b511d588019d)
+
+Edit Page
+![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/13ceeb63-9d16-4a44-8194-1067c9393ca8)
+
+
 
 
 ```
