@@ -9,9 +9,11 @@ Deployed link
 
 https://zip-trip-frontend.vercel.app/
 
+
+![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/fac57a31-a61d-435d-b60c-1a87a2eb2b6e)
+
+
 ```
-
-
 BackendTodoRepo
 https://github.com/rohitchourey0809/Backend-ziptrip
 
