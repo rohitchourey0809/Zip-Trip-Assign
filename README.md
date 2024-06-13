@@ -19,23 +19,23 @@ https://github.com/rohitchourey0809/Backend-ziptrip
 API Endpoints
 
 ```
-GET /todos: Fetch all todos
+GET /api/todos: Fetch all todos
 ```
 
 ```
-GET /todos/:id: Fetch a single todo by ID
+GET /api/todos/:id: Fetch a single todo by ID
 ```
 
 ```
-POST /todos: Create a new todo
+POST /api/todos: Create a new todo
 ```
 
 ```
-PUT /todos/:id: Update a todo by ID
+PUT /api/todos/:id: Update a todo by ID
 ```
 
 ```
-DELETE /todos/:id: Delete a todo by ID
+DELETE /api/todos/:id: Delete a todo by ID
 ```
 
 ## For frontend
@@ -48,6 +48,6 @@ DELETE /todos/:id: Delete a todo by ID
 
 `cd Todo-Task`
 `cd Backend`
-`node server.js`
+`node index.js`
 
 
