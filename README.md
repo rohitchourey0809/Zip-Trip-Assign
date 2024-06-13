@@ -12,6 +12,7 @@ https://zip-trip-frontend.vercel.app/
 ```
 
 ```
+![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/f662ee22-31ac-447a-b600-c87369b8726d)
 
 ```
 BackendTodoRepo
