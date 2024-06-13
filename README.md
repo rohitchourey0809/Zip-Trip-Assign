@@ -11,9 +11,7 @@ https://zip-trip-frontend.vercel.app/
 
 ```
 
-```
 
-```
 BackendTodoRepo
 https://github.com/rohitchourey0809/Backend-ziptrip
 
