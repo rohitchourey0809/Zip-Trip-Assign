@@ -72,7 +72,7 @@ function removedup2(arr) {
 let arr2 = [1, 2, 3, 6, 4, 3, 7, 4, 2, 6, 8, 2, 5, 9, 0, 1];
 let ans2 = removedup2(arr2);
 
-console.log("ans", ans);
+console.log("ans2", ans2);
 // Output: [1, 2, 3, 6, 4, 7, 8, 5, 9, 0]
 
 //  time complexity of removedup2 is O(n^2) 
