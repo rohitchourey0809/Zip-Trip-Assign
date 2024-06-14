@@ -210,13 +210,16 @@ Deployed link
 https://zip-trip-frontend.vercel.app/
 
 Home Page
-![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/fac57a31-a61d-435d-b60c-1a87a2eb2b6e)
+![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/6e6431fb-b704-47e7-81f0-96ecc80869ae)
+
 
 Details Page
-![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/b2ea8df6-72d6-4f12-99df-b511d588019d)
+![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/8f351cd9-9652-40e2-a91a-b89a7b723f54)
+
 
 Edit Page
-![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/13ceeb63-9d16-4a44-8194-1067c9393ca8)
+![image](https://github.com/rohitchourey0809/Zip-Trip-Assign/assets/97465195/166a4710-37d2-4d7e-8c69-1944249ae4c3)
+
 
 
 
