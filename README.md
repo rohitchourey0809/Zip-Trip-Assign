@@ -1,5 +1,6 @@
 # Zip-Trip-Assign
 
+```
 // Question 1.
 // Given that you are using JavaScript.
 // Write a function that takes n as input.
@@ -10,7 +11,6 @@
 // 4321
 // ...
 // nnnnn(n times)
-
 
 // Approach1
 function pattern1(n) {
@@ -43,8 +43,10 @@ pattern1(5);
 
 //  the time complexity of pattern2 is O(n^2).
 // the space complexity of pattern2 is also O(n^2) in the worst case.
+```
 
-
+```
+//Question2
 // Approach1
 function removedup1(arr) {
   return [...new Set(arr)];
@@ -75,8 +77,10 @@ console.log("ans", ans);
 
 //  time complexity of removedup2 is O(n^2) 
 // the space complexity of removedup2 is O(n) in the worst case.
+```
 
-
+```
+//Question3
 // Approach1
 function reversestr1(str) {
   return str.split("").reverse().join("");
@@ -104,8 +108,10 @@ console.log(reversestr2(str2)); // Output: "araksahB"
 //  the time complexity of reversestr2 is O(n),
 //  the space complexity is O(n)
 
+```
 
 
+```
 <!-- Question 4.
 Consider the following HTML -->
 <div id="container">
@@ -133,10 +139,9 @@ div.box
  [class]: Lines 2, 3, 5, 7 
  #container .box: Lines 2, 5 
  #container > .box: Line 2
+```
 
-<!--  -->
-
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -184,6 +189,7 @@ div.box
     </div>
   </body>
 </html>
+```
 
 
 
